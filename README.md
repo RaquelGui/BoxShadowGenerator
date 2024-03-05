@@ -38,4 +38,4 @@ Sinta-se à vontade para utilizar, modificar e adaptar este conteúdo, de acordo
 
 ## Screenshot do Projeto
 
-![Screenshot](img/screenshot-devnotes.png)
+![Screenshot](img/screenshot.png)
